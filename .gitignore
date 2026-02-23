@@ -1,0 +1,22 @@
+# Video recordings (too large for GitHub)
+video_recording/
+*.mp4
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MacOS files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
